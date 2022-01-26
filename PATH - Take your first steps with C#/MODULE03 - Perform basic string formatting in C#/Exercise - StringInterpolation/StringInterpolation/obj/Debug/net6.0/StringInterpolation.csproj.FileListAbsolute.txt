@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\bin\Debug\net6.0\ref\StringInterpolation.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\ref\StringInterpolation.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE03 - Perform basic string formatting in C#\Exercise - StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.genruntimeconfig.cache

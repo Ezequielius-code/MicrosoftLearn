@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6d7c792-95c3-45b8-acb1-5b347f81f373": {
+      "ProjectGuid": "c6d7c792-95c3-45b8-acb1-5b347f81f373",
+      "DisplayName": "CharacterEscapeSequences",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

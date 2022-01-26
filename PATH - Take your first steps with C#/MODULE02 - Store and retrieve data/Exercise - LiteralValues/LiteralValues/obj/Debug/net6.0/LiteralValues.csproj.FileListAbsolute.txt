@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\bin\Debug\net6.0\LiteralValues.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\bin\Debug\net6.0\LiteralValues.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\bin\Debug\net6.0\LiteralValues.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\bin\Debug\net6.0\LiteralValues.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\bin\Debug\net6.0\ref\LiteralValues.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\bin\Debug\net6.0\LiteralValues.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\ref\LiteralValues.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - LiteralValues\LiteralValues\obj\Debug\net6.0\LiteralValues.genruntimeconfig.cache

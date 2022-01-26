@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\bin\Debug\net6.0\MathOperators.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\bin\Debug\net6.0\MathOperators.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\bin\Debug\net6.0\MathOperators.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\bin\Debug\net6.0\MathOperators.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\bin\Debug\net6.0\ref\MathOperators.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\bin\Debug\net6.0\MathOperators.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\ref\MathOperators.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE04 - Perform basic operations on numbers in C#\Exercise - MathOperators\MathOperators\obj\Debug\net6.0\MathOperators.genruntimeconfig.cache

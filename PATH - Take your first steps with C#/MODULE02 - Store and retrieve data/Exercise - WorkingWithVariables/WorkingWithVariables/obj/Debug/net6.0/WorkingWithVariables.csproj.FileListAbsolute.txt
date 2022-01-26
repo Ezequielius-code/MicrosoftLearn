@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\bin\Debug\net6.0\WorkingWithVariables.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\bin\Debug\net6.0\WorkingWithVariables.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\bin\Debug\net6.0\WorkingWithVariables.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\bin\Debug\net6.0\WorkingWithVariables.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\bin\Debug\net6.0\ref\WorkingWithVariables.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\bin\Debug\net6.0\WorkingWithVariables.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\ref\WorkingWithVariables.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE02 - Store and retrieve data\Exercise - WorkingWithVariables\WorkingWithVariables\obj\Debug\net6.0\WorkingWithVariables.genruntimeconfig.cache

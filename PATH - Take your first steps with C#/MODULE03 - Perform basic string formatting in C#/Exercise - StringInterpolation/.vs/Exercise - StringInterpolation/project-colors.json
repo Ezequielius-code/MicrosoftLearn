@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "858bc195-d216-44fc-afc1-e916b0d7242b": {
+      "ProjectGuid": "858bc195-d216-44fc-afc1-e916b0d7242b",
+      "DisplayName": "StringInterpolation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
