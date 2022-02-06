@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\bin\Debug\net6.0\UseElseifAndElseStatement.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\bin\Debug\net6.0\UseElseifAndElseStatement.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\bin\Debug\net6.0\UseElseifAndElseStatement.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\bin\Debug\net6.0\UseElseifAndElseStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\bin\Debug\net6.0\ref\UseElseifAndElseStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\bin\Debug\net6.0\UseElseifAndElseStatement.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\ref\UseElseifAndElseStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseElseifAndElseStatement\UseElseifAndElseStatement\obj\Debug\net6.0\UseElseifAndElseStatement.genruntimeconfig.cache

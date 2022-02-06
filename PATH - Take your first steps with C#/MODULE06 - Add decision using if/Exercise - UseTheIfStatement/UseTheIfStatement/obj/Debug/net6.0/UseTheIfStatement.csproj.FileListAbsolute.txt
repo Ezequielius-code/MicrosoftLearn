@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\bin\Debug\net6.0\UseTheIfStatement.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\bin\Debug\net6.0\UseTheIfStatement.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\bin\Debug\net6.0\UseTheIfStatement.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\bin\Debug\net6.0\UseTheIfStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\bin\Debug\net6.0\ref\UseTheIfStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\bin\Debug\net6.0\UseTheIfStatement.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\ref\UseTheIfStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE06 - Add decision using if\Exercise - UseTheIfStatement\UseTheIfStatement\obj\Debug\net6.0\UseTheIfStatement.genruntimeconfig.cache

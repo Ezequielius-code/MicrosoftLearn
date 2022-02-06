@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\bin\Debug\net6.0\foreachStatement.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\bin\Debug\net6.0\foreachStatement.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\bin\Debug\net6.0\foreachStatement.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\bin\Debug\net6.0\foreachStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\bin\Debug\net6.0\ref\foreachStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\bin\Debug\net6.0\foreachStatement.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\ref\foreachStatement.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE07 - Store data using Arrays\Exercise - foreachStatement\foreachStatement\obj\Debug\net6.0\foreachStatement.genruntimeconfig.cache

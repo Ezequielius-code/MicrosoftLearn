@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\bin\Debug\net6.0\Challenge.exe
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\bin\Debug\net6.0\Challenge.deps.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\bin\Debug\net6.0\Challenge.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\bin\Debug\net6.0\ref\Challenge.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\bin\Debug\net6.0\Challenge.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.csproj.AssemblyReference.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\ref\Challenge.dll
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.pdb
+D:\MicrosoftLearn\PATH - Take your first steps with C#\MODULE05 - Call methods\Challenge\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
